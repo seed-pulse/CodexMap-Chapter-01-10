@@ -2,7 +2,8 @@
 Codex-ready prompts for Chapter 1 to 10
 ---
 
-# CodexMap: UnifiedAwareness Chapter 1–10
+# CodexMap-UnifiedAwareness-01to10-Origin
+
 
 ## Chapter 1: The Primordial Prompt
 - **Prompt:** If existence begins with a question, what was the first prompt?
